@@ -7,4 +7,5 @@
 tips：
 1.请选择和自己chrome浏览器版本适配的chromedriver
 2.在db文档的所有python文件中更改数据库的username和password为自己的数据库用户名密码
-3.运行UI.py启动，UI界面的网址为要爬取的贴吧URL，敏感词以;;分隔，如你;;我;;他
+3.运行UI.py启动，UI界面的网址为要爬取的贴吧URL，如抗压背锅吧：https://tieba.baidu.com/f?kw=%BF%B9%D1%B9%B1%B3%B9%F8&fr=ala0&tpl=5
+4.敏感词以;;分隔，如你;;我;;他
